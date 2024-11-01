@@ -2,7 +2,7 @@
 
 I'm enthusiastic about technology and currently in the learning phase of development. 🚀
 
-### 🚀 Technologies & Tools I’m Learning
+### 🚀 Technologies & Tools I’m in
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
