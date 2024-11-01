@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Varun Choudhary! 👋
 
 I'm enthusiastic about technology and currently in the learning phase of development. 🚀
 
