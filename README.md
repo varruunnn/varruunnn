@@ -12,6 +12,7 @@ I'm enthusiastic about technology and currently in the learning phase of develop
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-E34F26?style=flat&logo=typescript&logoColor=white)
 
 ### 🌱 I'm currently learning:
 
