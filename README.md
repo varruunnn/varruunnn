@@ -99,7 +99,7 @@
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_vaarruunn_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-vcs.vercel.app/)
-
+[![Blogs](https://img.shields.io/badge/Blog-FFFF00?style=for-the-badge&logo=About.me&logoColor=white)](https://hashnode.com/@varuunnn/)
 </div>
 
 ---
