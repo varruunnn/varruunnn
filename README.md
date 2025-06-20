@@ -1,7 +1,7 @@
 # <div align="center">🚀 Hi there, I'm Varun Choudhary! 🚀</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding Animation" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" width="100%"/>
 </div>
 
 <div align="center">
@@ -69,11 +69,15 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0000ff?style=for-the-badge&logo=digitalocean&logoColor=Blue)
+
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="25" alt="Learning"/> Currently Exploring
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-808080?style=for-the-badge&logo=rust&logoColor=white)
+
 
 </div>
 
